@@ -1,4 +1,14 @@
-### Hi there 👋
+GitHub profile.
+<h1 align="center">
+     RAMIDI NIKHIL REDDY
+</h1>
+
+<p align="center">
+    Ｕｎｓｔｏｐｐａｂｌｅ　ｌｅａｒｎｅｒ
+</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ramidinikhilreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" />
+</p>
 
 <!--
 **ramidinikhilreddy/ramidinikhilreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
